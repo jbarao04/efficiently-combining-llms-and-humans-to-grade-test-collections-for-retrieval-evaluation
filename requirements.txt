@@ -1,0 +1,15 @@
+# GPU scoring (RunPod only)
+vllm==0.6.6.post1
+transformers==4.48.0
+
+# Core
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Perturbation generation
+spacy
+nltk
