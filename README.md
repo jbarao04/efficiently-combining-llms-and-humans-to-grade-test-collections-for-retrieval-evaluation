@@ -1,4 +1,4 @@
-# When Can an LLM-Judge Be Trusted?
+# Efficiently Combining LLMs and Humans to Grade Test Collections for Retrieval Evaluation
 
 
 ## Overview
